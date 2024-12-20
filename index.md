@@ -1,5 +1,5 @@
 ---
-title: About Mingsi Liao
+title: About Me
 feature_text: |
   ## Mingsi Liao 
   Ph.D. student in Computational Biology focused on bioinformatics, machine learning, and precision dairy research.
