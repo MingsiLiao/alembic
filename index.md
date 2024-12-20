@@ -1,8 +1,8 @@
 ---
 title: About Mingsi Liao
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Mingsi Liao 
+  Ph.D. student in Computational Biology focused on bioinformatics, machine learning, and precision dairy research.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
